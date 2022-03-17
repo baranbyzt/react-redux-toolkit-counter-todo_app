@@ -7,3 +7,13 @@ html,body{
     justify-content: center;
     align-items: center;
 }
+
+.wrapper_window{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    padding-right: auto;
+    padding-left: auto;
+}
